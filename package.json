@@ -1,0 +1,26 @@
+{
+  "name": "my-prisma-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xye7ei/my-prisma-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xye7ei/my-prisma-example/issues"
+  },
+  "homepage": "https://github.com/xye7ei/my-prisma-example#readme",
+  "devDependencies": {
+    "prisma": "^4.1.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.1.1"
+  }
+}
